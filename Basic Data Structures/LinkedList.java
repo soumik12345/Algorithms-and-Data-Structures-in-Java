@@ -47,7 +47,7 @@ class LinkedList
             if(command.equals("print"))
             {
                 Print(first);
-                System.out.println();
+                System.out.println("null");
             }
             else
             {
